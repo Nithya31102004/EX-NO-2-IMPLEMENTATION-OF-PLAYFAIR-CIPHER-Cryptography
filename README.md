@@ -1,11 +1,9 @@
 # EX-NO-2: IMPLEMENTATION OF PLAYFAIR CIPHER
-
+##NAME :NITHYA T
+##REG NO:2305001023
  
 
 ## AIM:
- 
-
- 
 
 To write a C program to implement the Playfair Substitution technique.
 
