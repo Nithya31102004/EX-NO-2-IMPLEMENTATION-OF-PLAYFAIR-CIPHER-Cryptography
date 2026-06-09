@@ -1,9 +1,12 @@
 # EX-NO-2: IMPLEMENTATION OF PLAYFAIR CIPHER
-##NAME :NITHYA T
-##REG NO:2305001023
+## NAME: NITHYA T
+## REG NO: 2305001023
  
 
 ## AIM:
+ 
+
+ 
 
 To write a C program to implement the Playfair Substitution technique.
 
@@ -112,6 +115,9 @@ int main() {
 
 
 ## Output:
+<img width="443" height="188" alt="image" src="https://github.com/user-attachments/assets/66def760-6b55-44a5-88d0-f64d01185303" />
+
+
 
 
 
